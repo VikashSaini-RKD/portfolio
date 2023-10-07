@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fdf18ba6.css",
-    "main.js": "/portfolio/static/js/main.f7a05a47.js",
+    "main.css": "/portfolio/static/css/main.23eed5b2.css",
+    "main.js": "/portfolio/static/js/main.43b9bf6e.js",
     "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.522da76635d52117102b.png",
-    "static/media/Vikash.pdf": "/portfolio/static/media/Vikash.c591bfa7dab37a5e0e21.pdf",
+    "static/media/Vikash.jpg": "/portfolio/static/media/Vikash.6f7715fe849cabeaafdf.jpg",
     "static/media/sidebar.png": "/portfolio/static/media/sidebar.b2225070b8adae68d063.png",
     "static/media/vs.jpg": "/portfolio/static/media/vs.464186cbbb9d325beac2.jpg",
     "static/media/boy.png": "/portfolio/static/media/boy.5ca4b670a32b71681d2c.png",
@@ -20,11 +20,11 @@
     "static/media/Vector2.png": "/portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/mer.jpeg": "/portfolio/static/media/mer.e3382273dc57d98d1120.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.fdf18ba6.css.map": "/portfolio/static/css/main.fdf18ba6.css.map",
-    "main.f7a05a47.js.map": "/portfolio/static/js/main.f7a05a47.js.map"
+    "main.23eed5b2.css.map": "/portfolio/static/css/main.23eed5b2.css.map",
+    "main.43b9bf6e.js.map": "/portfolio/static/js/main.43b9bf6e.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdf18ba6.css",
-    "static/js/main.f7a05a47.js"
+    "static/css/main.23eed5b2.css",
+    "static/js/main.43b9bf6e.js"
   ]
 }
