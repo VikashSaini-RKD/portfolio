@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.699439f3.css",
-    "main.js": "/portfolio/static/js/main.cb0cb71d.js",
+    "main.css": "/portfolio/static/css/main.6ea7c714.css",
+    "main.js": "/portfolio/static/js/main.7fed05f4.js",
     "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/Vikash.pdf": "/portfolio/static/media/Vikash.ae21ddebe43d8a7ed9fd.pdf",
     "static/media/sidebar.png": "/portfolio/static/media/sidebar.b2225070b8adae68d063.png",
@@ -12,18 +12,16 @@
     "static/media/clone.jpg": "/portfolio/static/media/clone.69b83b33207586c08ab8.jpg",
     "static/media/aniket.jpg": "/portfolio/static/media/aniket.abb32c1b009e818b6a82.jpg",
     "static/media/full stack.jpeg": "/portfolio/static/media/full stack.107755cbb2abf59feb7d.jpeg",
-    "static/media/thumbup.png": "/portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
     "static/media/mern.jpeg": "/portfolio/static/media/mern.d34374ed35023cda43b9.jpeg",
     "static/media/wave.png": "/portfolio/static/media/wave.fdfef4069ad90f610990.png",
-    "static/media/crown.png": "/portfolio/static/media/crown.dbe416beae9b49b842ab.png",
     "static/media/Vector2.png": "/portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/mer.jpeg": "/portfolio/static/media/mer.e3382273dc57d98d1120.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.699439f3.css.map": "/portfolio/static/css/main.699439f3.css.map",
-    "main.cb0cb71d.js.map": "/portfolio/static/js/main.cb0cb71d.js.map"
+    "main.6ea7c714.css.map": "/portfolio/static/css/main.6ea7c714.css.map",
+    "main.7fed05f4.js.map": "/portfolio/static/js/main.7fed05f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.699439f3.css",
-    "static/js/main.cb0cb71d.js"
+    "static/css/main.6ea7c714.css",
+    "static/js/main.7fed05f4.js"
   ]
 }
