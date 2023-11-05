@@ -1,27 +1,32 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.89f89a96.css",
-    "main.js": "/portfolio/static/js/main.91b08309.js",
+    "main.css": "/portfolio/static/css/main.40a2e3db.css",
+    "main.js": "/portfolio/static/js/main.b967e4c1.js",
+    "static/media/react.png": "/portfolio/static/media/react.f9269e31c05fd93d551d.png",
     "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/Vikash.pdf": "/portfolio/static/media/Vikash.ae21ddebe43d8a7ed9fd.pdf",
     "static/media/sidebar.png": "/portfolio/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/node.png": "/portfolio/static/media/node.5b82fda12e4d395709ef.png",
+    "static/media/js.png": "/portfolio/static/media/js.aa8bc616bb8252fa29f3.png",
     "static/media/vs.jpg": "/portfolio/static/media/vs.464186cbbb9d325beac2.jpg",
     "static/media/boy.png": "/portfolio/static/media/boy.5ca4b670a32b71681d2c.png",
     "static/media/portfolio.jpeg": "/portfolio/static/media/portfolio.616c3ef132ad5870f523.jpeg",
     "static/media/satyudev.jpg": "/portfolio/static/media/satyudev.d2807e56fb52774b39ea.jpg",
     "static/media/clone.jpg": "/portfolio/static/media/clone.69b83b33207586c08ab8.jpg",
+    "static/media/mongo.png": "/portfolio/static/media/mongo.beba833b3f1381a5dcf7.png",
     "static/media/aniket.jpg": "/portfolio/static/media/aniket.abb32c1b009e818b6a82.jpg",
-    "static/media/full stack.jpeg": "/portfolio/static/media/full stack.107755cbb2abf59feb7d.jpeg",
+    "static/media/design.jpeg": "/portfolio/static/media/design.0e1f9abddf1e017a114d.jpeg",
+    "static/media/frontend.jpeg": "/portfolio/static/media/frontend.eeab0dfdc4fbdcaca681.jpeg",
     "static/media/mern.jpeg": "/portfolio/static/media/mern.d34374ed35023cda43b9.jpeg",
+    "static/media/backend.jpeg": "/portfolio/static/media/backend.a21a7976e6c6ef6334c6.jpeg",
     "static/media/wave.png": "/portfolio/static/media/wave.fdfef4069ad90f610990.png",
     "static/media/Vector2.png": "/portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
-    "static/media/mer.jpeg": "/portfolio/static/media/mer.e3382273dc57d98d1120.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.89f89a96.css.map": "/portfolio/static/css/main.89f89a96.css.map",
-    "main.91b08309.js.map": "/portfolio/static/js/main.91b08309.js.map"
+    "main.40a2e3db.css.map": "/portfolio/static/css/main.40a2e3db.css.map",
+    "main.b967e4c1.js.map": "/portfolio/static/js/main.b967e4c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.89f89a96.css",
-    "static/js/main.91b08309.js"
+    "static/css/main.40a2e3db.css",
+    "static/js/main.b967e4c1.js"
   ]
 }
